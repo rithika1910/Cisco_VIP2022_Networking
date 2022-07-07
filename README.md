@@ -13,5 +13,3 @@ In this section, based on the topology created above & with ipv4 Addresses confi
 ##### Different blocks of network design.
 ##### Understand the different OSI model layers and be able to articulate the need for layering. Understand the relationship between the layers and packet headers and the meta data carried at each layer in the packet header.
 ##### Understand the role of different devices in a network. Clearly able to distinguish the role of a router (L3 device) from that of a switch (L2 device).
-
-Note:  Create a Presentation(in PDF format) describing all your ideas implemented  as mentioned above and upload it along with the above project.
